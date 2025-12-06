@@ -41,28 +41,22 @@
 ---
 
 ## 🧩 Projects
-AI-powered email writing, campaign dashboards, content automation, image library, and tenant-based routing.  
-Tech: React 19, Next.js, Tailwind, Sanity, JWT Auth, AWS + CloudFront.
 
-### 🔹 **Automated Health Article Generator**
-AI + GitHub Actions → Auto-generate 3–5 daily articles with images + publish to Sanity.
+### 🔹 **Multi-Tenant SaaS Platform**
+A complete SaaS system featuring AI-powered writing tools, dashboards, content workflows, media library, and tenant-based routing.  
+**Tech:** React 19, Next.js, Tailwind, Sanity CMS, JWT Auth, AWS.
 
-### 🔹 **Chrome Extension **
+### 🔹 **Enterprise Reporting & Dashboard Controls**
+Developed advanced front-end components for enterprise analytics: tab systems, toolbar controls, event-driven widgets, write-back workflows, and interactive dashboards.
 
----
+### 🔹 **Automated Article Generator**
+AI + GitHub Actions pipeline that auto-creates 3–5 human-style articles daily with images and publishes them directly to a CMS.
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rk111&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rk111&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rk111&layout=compact&theme=tokyonight" height="160" />
-</p>
+### 🔹 **Browser Extension for Financial Chart Insights**
+Built a Manifest V3 browser extension that reads interactive chart data and provides real-time analytics overlays.
 
 ---
+
 
 ## 🏆 GitHub Trophies  
 <p align="center">
@@ -73,10 +67,10 @@ AI + GitHub Actions → Auto-generate 3–5 daily articles with images + publish
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/ravikant-ui-architect" target="_blank">
+<a href="https://linkedin.com/in/ravikant111" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:ravikant.dev@gmail.com">
+<a href="mailto:ravi.kant111@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
